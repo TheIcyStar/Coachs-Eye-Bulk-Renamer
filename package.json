@@ -1,0 +1,29 @@
+{
+  "name": "coachs-eye-bulk-renamer",
+  "version": "1.0.0",
+  "description": "Renames source video files from the Coach's Eye mobile app to their titles and tags",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheIcyStar/Coachs-Eye-Bulk-Renamer.git"
+  },
+  "keywords": [
+    "utility",
+    "renaming",
+    "bulk",
+    "mobile",
+    "tool"
+  ],
+  "author": "TheIcyStar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheIcyStar/Coachs-Eye-Bulk-Renamer/issues"
+  },
+  "homepage": "https://github.com/TheIcyStar/Coachs-Eye-Bulk-Renamer#readme",
+  "dependencies": {
+    "sqlite": "^4.0.23"
+  }
+}
