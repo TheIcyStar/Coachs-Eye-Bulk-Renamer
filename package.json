@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/TheIcyStar/Coachs-Eye-Bulk-Renamer#readme",
   "dependencies": {
-    "sqlite": "^4.0.23"
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
   }
 }
